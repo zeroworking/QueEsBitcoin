@@ -2,24 +2,24 @@
 
 CODERHOUSE
 
-Curso		: Desarrollo Web.
+Curso		    : Desarrollo Web.
 
-Comisión	: 49675.
+Comisión	    : 49675.
 
-Alumno		: Jorge Jara.
+Alumno		    : Jorge Jara.
 
-Entrega		: Segunda Entrega.
+Entrega		    : Segunda Entrega.
 
-Proyecto	: QueEsBitcoin.
+Proyecto	    : QueEsBitcoin.
 
-Version		: 2.0.0.
+Version		    : 2.0.0.
 
-Github		: https://github.com/zeroworking/QueEsBitcoin/
+Github		    : https://github.com/zeroworking/QueEsBitcoin/
 
 Github Pages	: https://zeroworking.github.io/QueEsBitcoin/
 
-Considera	: HTML(uso de etiquetas contenedoras, etiquetas multimedia, etiquetas de texto) + CSS (con modificadores de texto, colores, listas y box-modeling).
+Considera	    : HTML(uso de etiquetas contenedoras, etiquetas multimedia, etiquetas de texto) + CSS (con modificadores de texto, colores, listas y box-modeling).
 
-Considera	: Correcciones Primera Entrega, Grid, Flexbox, Bootstrap 5.3.2, Pseudo-Clases, MediaQuerys.
+Considera	    : Correcciones Primera Entrega, Grid, Flexbox, Bootstrap 5.3.2, Pseudo-Clases, MediaQuerys.
 
 # QueEsBitcoin
